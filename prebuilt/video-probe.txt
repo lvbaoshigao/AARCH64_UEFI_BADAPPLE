@@ -1,0 +1,10 @@
+codec_name=h264
+codec_type=video
+width=480
+height=360
+r_frame_rate=30/1
+duration=219.066667
+codec_name=aac
+codec_type=audio
+r_frame_rate=0/0
+duration=219.099000
