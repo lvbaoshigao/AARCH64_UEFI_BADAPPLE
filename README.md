@@ -28,7 +28,7 @@ prebuilt/                    已构建产物（384x288@30，6572 帧，逐帧核
   preview-*.pgm              编码器在 1/4、1/2、3/4 处回解出的画面
 ```
 
-不含源视频 badapple.mov（版权原因）。video.sha256 和 video-probe.txt 记录了所用视频的哈希和参数（h264 480x360@30，219.07 s）。
+video.sha256 和 video-probe.txt 记录了所用视频的哈希和参数（h264 480x360@30，219.07 s）。
 
 ## 单独构建播放器
 
