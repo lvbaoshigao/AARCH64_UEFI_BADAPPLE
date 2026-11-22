@@ -1,0 +1,2 @@
+# AARCH64_UEFI_BADAPPLE
+使用UEFI播放badapple
